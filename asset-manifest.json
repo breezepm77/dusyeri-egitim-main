@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.b6707744.chunk.css",
+    "main.js": "/react/static/js/main.ff3b1555.chunk.js",
+    "main.js.map": "/react/static/js/main.ff3b1555.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.ace535a2.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.ace535a2.js.map",
+    "static/css/2.b7985956.chunk.css": "/react/static/css/2.b7985956.chunk.css",
+    "static/js/2.ece6e623.chunk.js": "/react/static/js/2.ece6e623.chunk.js",
+    "static/js/2.ece6e623.chunk.js.map": "/react/static/js/2.ece6e623.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/2.b7985956.chunk.css.map": "/react/static/css/2.b7985956.chunk.css.map",
+    "static/css/main.b6707744.chunk.css.map": "/react/static/css/main.b6707744.chunk.css.map",
+    "static/js/2.ece6e623.chunk.js.LICENSE.txt": "/react/static/js/2.ece6e623.chunk.js.LICENSE.txt",
+    "static/media/Puzzle.css": "/react/static/media/bg-blue-gradient.f6244a1c.png",
+    "static/media/circle.7fdaba90.svg": "/react/static/media/circle.7fdaba90.svg",
+    "static/media/ColorPicker.scss": "/react/static/media/non-pacman-background.8bca9afd.png",
+    "static/media/Pacman.scss": "/react/static/media/pacman-background.91f292b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ace535a2.js",
+    "static/css/2.b7985956.chunk.css",
+    "static/js/2.ece6e623.chunk.js",
+    "static/css/main.b6707744.chunk.css",
+    "static/js/main.ff3b1555.chunk.js"
+  ]
+}
